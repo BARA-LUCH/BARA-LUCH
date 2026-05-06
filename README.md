@@ -67,7 +67,7 @@ Languages    English (Fluent) · Hebrew (Native) · Arabic (Native)
 
 ## 🎓 Education
 
-**B.Sc. Data Science & Business (Finance)** · Memorial University of Newfoundland · Expected Apr 2026
+**B.Sc. Data Science & Business (Finance)** · Memorial University of Newfoundland 
 
 Research Exchange · Sungkyunkwan University (SKKU), South Korea · Computer Vision & Deep Learning
 

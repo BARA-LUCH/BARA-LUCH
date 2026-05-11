@@ -24,15 +24,15 @@ New grad (Expected Apr 2026) building production ML systems — not just noteboo
 
 ## 🚀 Production Systems
 
-| Project | Stack | Metric |
-|---------|-------|--------|
-| [Financial Fraud Detection API](https://github.com/BARA-LUCH) | XGBoost · PyTorch · FastAPI · Docker | ROC-AUC **0.991** · $284K+ revenue protected |
-| [Healthcare Risk Scoring API](https://github.com/BARA-LUCH) | XGBoost · SQL · FastAPI · AWS | ROC-AUC **0.84** · 500 patients/batch |
-| [Multilingual NLP API](https://github.com/BARA-LUCH) | FinBERT · FastAPI · Docker | Hebrew · Arabic · English · 100 texts/req |
-| [Customer Churn Dashboard](https://huggingface.co/bara-luch) | XGBoost · SHAP · HuggingFace Spaces | ROC-AUC **0.96** · $242K net revenue saved |
-| [NBA Betting Market Analyzer](https://github.com/BARA-LUCH) | SciPy · Pandas · OLS Regression | 7,380 games · A/B tested |
-| [AI Crime News Analyzer](https://github.com/BARA-LUCH) | HuggingFace · GPT-4o · Folium | Hebrew · Arabic · English |
-| [Wake-Wise Drowsiness Detection](https://github.com/BARA-LUCH) | OpenCV · MediaPipe · Flask | 30+ FPS · +14.7% retention (n=19 vs n=21) |
+| Project | Live Demo | Stack | Metric |
+|---------|-----------|-------|--------|
+| Financial Fraud Detection API | [🔐 Live Demo](https://huggingface.co/spaces/bara-luch/fraud-detection) | XGBoost · PyTorch · FastAPI · Docker | ROC-AUC **0.991** · $284K+ revenue protected |
+| Healthcare Risk Scoring API | [🏥 GitHub](https://github.com/BARA-LUCH) | XGBoost · SQL · FastAPI · AWS | ROC-AUC **0.84** · 500 patients/batch |
+| Multilingual NLP API | [🤖 Live Demo](https://huggingface.co/spaces/bara-luch/multilingual-nlp) | FinBERT · FastAPI · Docker | Hebrew · Arabic · English · 100 texts/req |
+| Customer Churn Dashboard | [📊 Live Demo](https://huggingface.co/spaces/bara-luch/customer-churn) | XGBoost · SHAP · HuggingFace Spaces | ROC-AUC **0.96** · $242K net revenue saved |
+| NBA Betting Market Analyzer | [🏀 Live Demo](https://huggingface.co/spaces/bara-luch/nba-betting-analysis) | SciPy · Pandas · OLS Regression | 7,380 games · A/B tested |
+| AI Crime News Analyzer | [🔍 GitHub](https://github.com/BARA-LUCH) | HuggingFace · GPT-4o · Folium | Hebrew · Arabic · English |
+| Wake-Wise Drowsiness Detection | [😴 GitHub](https://github.com/BARA-LUCH) | OpenCV · MediaPipe · Flask | 30+ FPS · +14.7% retention (n=19 vs n=21) |
 
 ---
 
@@ -67,7 +67,7 @@ Languages    English (Fluent) · Hebrew (Native) · Arabic (Native)
 
 ## 🎓 Education
 
-**B.Sc. Data Science & Business (Finance)** · Memorial University of Newfoundland 
+**B.Sc. Data Science & Business (Finance)** · Memorial University of Newfoundland · Expected Apr 2026
 
 Research Exchange · Sungkyunkwan University (SKKU), South Korea · Computer Vision & Deep Learning
 
